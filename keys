@@ -1,0 +1,3 @@
+ const m=Object.keys(o)
+ let i=m.length,p;
+ while(--i){p=m[i];};
